@@ -1,0 +1,8 @@
+import("shiny")
+importFrom("graphics", "hist", "lines")
+importFrom("utils", "capture.output", "tail")
+importFrom("shinyjs", "useShinyjs")
+importFrom("readxl", "read_excel")
+importFrom("openxlsx", "readWorkbook", "loadWorkbook")
+
+exportPattern("^[^\\.]")

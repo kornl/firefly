@@ -1,0 +1,10 @@
+Package: firefly
+Title: Shiny functions and widgets for shiny apps
+Version: 0.0.2
+Authors@R: person("Kornelius", "Rohmeyer", role = c("aut", "cre"),  email = "rohmeyer@small-projects.de")
+Description: Shiny functions and widgets for shiny apps. You can't take the sky from me.
+Depends: R (>= 3.4.0), shiny, shinyjs, openxlsx, readxl
+License: GPL-3
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.1.2
